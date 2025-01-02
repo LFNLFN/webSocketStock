@@ -1,0 +1,942 @@
+[
+    {
+        "symbol": "IRH",
+        "companyName": "Jones, Mosciski and Ratke",
+        "catchPhrase": "Open-source local array",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 151
+            },
+            {
+                "minute": 1,
+                "price": 151.25
+            },
+            {
+                "minute": 2,
+                "price": 137.23
+            },
+            {
+                "minute": 3,
+                "price": 124.76
+            },
+            {
+                "minute": 4,
+                "price": 114.99
+            },
+            {
+                "minute": 5,
+                "price": 126.79
+            },
+            {
+                "minute": 6,
+                "price": 132.53
+            },
+            {
+                "minute": 7,
+                "price": 132.53
+            },
+            {
+                "minute": 8,
+                "price": 134.01
+            },
+            {
+                "minute": 9,
+                "price": 135.4
+            }
+        ]
+    },
+    {
+        "symbol": "PXE",
+        "companyName": "Lemke LLC",
+        "catchPhrase": "Function-based optimal portal",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 651
+            },
+            {
+                "minute": 1,
+                "price": 703.52
+            },
+            {
+                "minute": 2,
+                "price": 671.45
+            },
+            {
+                "minute": 3,
+                "price": 673.24
+            },
+            {
+                "minute": 4,
+                "price": 721.54
+            },
+            {
+                "minute": 5,
+                "price": 760.57
+            },
+            {
+                "minute": 6,
+                "price": 725.06
+            },
+            {
+                "minute": 7,
+                "price": 774.26
+            },
+            {
+                "minute": 8,
+                "price": 783
+            },
+            {
+                "minute": 9,
+                "price": 725.25
+            }
+        ]
+    },
+    {
+        "symbol": "BG",
+        "companyName": "Kemmer - Gleichner",
+        "catchPhrase": "Multi-lateral background leverage",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 384
+            },
+            {
+                "minute": 1,
+                "price": 373.79
+            },
+            {
+                "minute": 2,
+                "price": 259.1
+            },
+            {
+                "minute": 3,
+                "price": 240.05
+            },
+            {
+                "minute": 4,
+                "price": 230.52
+            },
+            {
+                "minute": 5,
+                "price": 234.66
+            },
+            {
+                "minute": 6,
+                "price": 232.02
+            },
+            {
+                "minute": 7,
+                "price": 245.54
+            },
+            {
+                "minute": 8,
+                "price": 239.99
+            },
+            {
+                "minute": 9,
+                "price": 219.07
+            }
+        ]
+    },
+    {
+        "symbol": "B",
+        "companyName": "Senger, Romaguera and Windler",
+        "catchPhrase": "Extended fresh-thinking orchestration",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 964
+            },
+            {
+                "minute": 1,
+                "price": 1052.28
+            },
+            {
+                "minute": 2,
+                "price": 1003.13
+            },
+            {
+                "minute": 3,
+                "price": 986.67
+            },
+            {
+                "minute": 4,
+                "price": 949.44
+            },
+            {
+                "minute": 5,
+                "price": 914.31
+            },
+            {
+                "minute": 6,
+                "price": 887.2
+            },
+            {
+                "minute": 7,
+                "price": 893.87
+            },
+            {
+                "minute": 8,
+                "price": 903.26
+            },
+            {
+                "minute": 9,
+                "price": 875.39
+            }
+        ]
+    },
+    {
+        "symbol": "E",
+        "companyName": "Sipes, Gaylord and Bode",
+        "catchPhrase": "Compatible bifurcated infrastructure",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 857
+            },
+            {
+                "minute": 1,
+                "price": 793.89
+            },
+            {
+                "minute": 2,
+                "price": 843.68
+            },
+            {
+                "minute": 3,
+                "price": 805.48
+            },
+            {
+                "minute": 4,
+                "price": 741.81
+            },
+            {
+                "minute": 5,
+                "price": 802.56
+            },
+            {
+                "minute": 6,
+                "price": 805.8
+            },
+            {
+                "minute": 7,
+                "price": 762.57
+            },
+            {
+                "minute": 8,
+                "price": 751.29
+            },
+            {
+                "minute": 9,
+                "price": 762.41
+            }
+        ]
+    },
+    {
+        "symbol": "IB",
+        "companyName": "Kautzer - Adams",
+        "catchPhrase": "Exclusive system-worthy synergy",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 76
+            },
+            {
+                "minute": 1,
+                "price": 80.05
+            },
+            {
+                "minute": 2,
+                "price": 84.28
+            },
+            {
+                "minute": 3,
+                "price": 84.22
+            },
+            {
+                "minute": 4,
+                "price": 81.34
+            },
+            {
+                "minute": 5,
+                "price": 79.27
+            },
+            {
+                "minute": 6,
+                "price": 77.87
+            },
+            {
+                "minute": 7,
+                "price": 80.65
+            },
+            {
+                "minute": 8,
+                "price": 80.93
+            },
+            {
+                "minute": 9,
+                "price": 79.13
+            }
+        ]
+    },
+    {
+        "symbol": "NO",
+        "companyName": "Harber - Heathcote",
+        "catchPhrase": "User-friendly logistical product",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 975
+            },
+            {
+                "minute": 1,
+                "price": 877.99
+            },
+            {
+                "minute": 2,
+                "price": 878.8
+            },
+            {
+                "minute": 3,
+                "price": 855.78
+            },
+            {
+                "minute": 4,
+                "price": 783.79
+            },
+            {
+                "minute": 5,
+                "price": 796.73
+            },
+            {
+                "minute": 6,
+                "price": 734.85
+            },
+            {
+                "minute": 7,
+                "price": 700.42
+            },
+            {
+                "minute": 8,
+                "price": 643.62
+            },
+            {
+                "minute": 9,
+                "price": 693.07
+            }
+        ]
+    },
+    {
+        "symbol": "ZIT",
+        "companyName": "Toy - Aufderhar",
+        "catchPhrase": "Monitored multi-tasking definition",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 957
+            },
+            {
+                "minute": 1,
+                "price": 926.47
+            },
+            {
+                "minute": 2,
+                "price": 849.12
+            },
+            {
+                "minute": 3,
+                "price": 835.04
+            },
+            {
+                "minute": 4,
+                "price": 879.67
+            },
+            {
+                "minute": 5,
+                "price": 870.83
+            },
+            {
+                "minute": 6,
+                "price": 793.16
+            },
+            {
+                "minute": 7,
+                "price": 780.81
+            },
+            {
+                "minute": 8,
+                "price": 764.27
+            },
+            {
+                "minute": 9,
+                "price": 764.2
+            }
+        ]
+    },
+    {
+        "symbol": "JFD",
+        "companyName": "Breitenberg LLC",
+        "catchPhrase": "Down-sized human-resource standardization",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 302
+            },
+            {
+                "minute": 1,
+                "price": 327.16
+            },
+            {
+                "minute": 2,
+                "price": 319.72
+            },
+            {
+                "minute": 3,
+                "price": 349.36
+            },
+            {
+                "minute": 4,
+                "price": 316.95
+            },
+            {
+                "minute": 5,
+                "price": 338.21
+            },
+            {
+                "minute": 6,
+                "price": 309.45
+            },
+            {
+                "minute": 7,
+                "price": 308.25
+            },
+            {
+                "minute": 8,
+                "price": 319.94
+            },
+            {
+                "minute": 9,
+                "price": 328.65
+            }
+        ]
+    },
+    {
+        "symbol": "VJ",
+        "companyName": "Ernser and Sons",
+        "catchPhrase": "Future-proofed reciprocal process improvement",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 58
+            },
+            {
+                "minute": 1,
+                "price": 57.45
+            },
+            {
+                "minute": 2,
+                "price": 53.77
+            },
+            {
+                "minute": 3,
+                "price": 53.92
+            },
+            {
+                "minute": 4,
+                "price": 52.12
+            },
+            {
+                "minute": 5,
+                "price": 53.92
+            },
+            {
+                "minute": 6,
+                "price": 55.27
+            },
+            {
+                "minute": 7,
+                "price": 56.29
+            },
+            {
+                "minute": 8,
+                "price": 60.46
+            },
+            {
+                "minute": 9,
+                "price": 57.73
+            }
+        ]
+    },
+    {
+        "symbol": "QYM",
+        "companyName": "Conn, Prohaska and Durgan",
+        "catchPhrase": "Synchronised secondary definition",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 531
+            },
+            {
+                "minute": 1,
+                "price": 491.71
+            },
+            {
+                "minute": 2,
+                "price": 532.77
+            },
+            {
+                "minute": 3,
+                "price": 569.27
+            },
+            {
+                "minute": 4,
+                "price": 604.3
+            },
+            {
+                "minute": 5,
+                "price": 573.35
+            },
+            {
+                "minute": 6,
+                "price": 610.21
+            },
+            {
+                "minute": 7,
+                "price": 592.92
+            },
+            {
+                "minute": 8,
+                "price": 572.24
+            },
+            {
+                "minute": 9,
+                "price": 558.02
+            }
+        ]
+    },
+    {
+        "symbol": "QC",
+        "companyName": "McClure Group",
+        "catchPhrase": "Object-based uniform middleware",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 545
+            },
+            {
+                "minute": 1,
+                "price": 540.73
+            },
+            {
+                "minute": 2,
+                "price": 534.05
+            },
+            {
+                "minute": 3,
+                "price": 571.22
+            },
+            {
+                "minute": 4,
+                "price": 580.46
+            },
+            {
+                "minute": 5,
+                "price": 630.99
+            },
+            {
+                "minute": 6,
+                "price": 622.74
+            },
+            {
+                "minute": 7,
+                "price": 580.34
+            },
+            {
+                "minute": 8,
+                "price": 545.81
+            },
+            {
+                "minute": 9,
+                "price": 516.46
+            }
+        ]
+    },
+    {
+        "symbol": "Z",
+        "companyName": "Gaylord, Feeney and Will",
+        "catchPhrase": "Polarised fresh-thinking project",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 677
+            },
+            {
+                "minute": 1,
+                "price": 734.88
+            },
+            {
+                "minute": 2,
+                "price": 1005.97
+            },
+            {
+                "minute": 3,
+                "price": 960.97
+            },
+            {
+                "minute": 4,
+                "price": 928.23
+            },
+            {
+                "minute": 5,
+                "price": 848.89
+            },
+            {
+                "minute": 6,
+                "price": 846.74
+            },
+            {
+                "minute": 7,
+                "price": 903.62
+            },
+            {
+                "minute": 8,
+                "price": 889.25
+            },
+            {
+                "minute": 9,
+                "price": 957.41
+            }
+        ]
+    },
+    {
+        "symbol": "VT",
+        "companyName": "Labadie - Dietrich",
+        "catchPhrase": "Persevering discrete application",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 33
+            },
+            {
+                "minute": 1,
+                "price": 31.33
+            },
+            {
+                "minute": 2,
+                "price": 28.76
+            },
+            {
+                "minute": 3,
+                "price": 29.59
+            },
+            {
+                "minute": 4,
+                "price": 33.05
+            },
+            {
+                "minute": 5,
+                "price": 36.16
+            },
+            {
+                "minute": 6,
+                "price": 33.78
+            },
+            {
+                "minute": 7,
+                "price": 36.02
+            },
+            {
+                "minute": 8,
+                "price": 33.78
+            },
+            {
+                "minute": 9,
+                "price": 37.63
+            }
+        ]
+    },
+    {
+        "symbol": "SF",
+        "companyName": "Senger - Davis",
+        "catchPhrase": "Automated global initiative",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 188
+            },
+            {
+                "minute": 1,
+                "price": 197.94
+            },
+            {
+                "minute": 2,
+                "price": 188.02
+            },
+            {
+                "minute": 3,
+                "price": 182.82
+            },
+            {
+                "minute": 4,
+                "price": 186.6
+            },
+            {
+                "minute": 5,
+                "price": 189.4
+            },
+            {
+                "minute": 6,
+                "price": 195.79
+            },
+            {
+                "minute": 7,
+                "price": 208.95
+            },
+            {
+                "minute": 8,
+                "price": 202.23
+            },
+            {
+                "minute": 9,
+                "price": 185.65
+            }
+        ]
+    },
+    {
+        "symbol": "ZV",
+        "companyName": "Lang - Johnston",
+        "catchPhrase": "Automated impactful access",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 136
+            },
+            {
+                "minute": 1,
+                "price": 139.74
+            },
+            {
+                "minute": 2,
+                "price": 131.1
+            },
+            {
+                "minute": 3,
+                "price": 120.87
+            },
+            {
+                "minute": 4,
+                "price": 117
+            },
+            {
+                "minute": 5,
+                "price": 114.84
+            },
+            {
+                "minute": 6,
+                "price": 166.39
+            },
+            {
+                "minute": 7,
+                "price": 164.91
+            },
+            {
+                "minute": 8,
+                "price": 173.67
+            },
+            {
+                "minute": 9,
+                "price": 186.17
+            }
+        ]
+    },
+    {
+        "symbol": "LQZ",
+        "companyName": "Schiller and Sons",
+        "catchPhrase": "Organic asynchronous projection",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 379
+            },
+            {
+                "minute": 1,
+                "price": 378.24
+            },
+            {
+                "minute": 2,
+                "price": 385.04
+            },
+            {
+                "minute": 3,
+                "price": 350.83
+            },
+            {
+                "minute": 4,
+                "price": 356.47
+            },
+            {
+                "minute": 5,
+                "price": 385.82
+            },
+            {
+                "minute": 6,
+                "price": 418.02
+            },
+            {
+                "minute": 7,
+                "price": 394.37
+            },
+            {
+                "minute": 8,
+                "price": 770.49
+            },
+            {
+                "minute": 9,
+                "price": 737.13
+            }
+        ]
+    },
+    {
+        "symbol": "TS",
+        "companyName": "Luettgen, Nicolas and Bogisich",
+        "catchPhrase": "Adaptive regional info-mediaries",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 834
+            },
+            {
+                "minute": 1,
+                "price": 774.87
+            },
+            {
+                "minute": 2,
+                "price": 788.39
+            },
+            {
+                "minute": 3,
+                "price": 767.4
+            },
+            {
+                "minute": 4,
+                "price": 785.09
+            },
+            {
+                "minute": 5,
+                "price": 720.89
+            },
+            {
+                "minute": 6,
+                "price": 738.6
+            },
+            {
+                "minute": 7,
+                "price": 740.15
+            },
+            {
+                "minute": 8,
+                "price": 660.39
+            },
+            {
+                "minute": 9,
+                "price": 622.95
+            }
+        ]
+    },
+    {
+        "symbol": "B",
+        "companyName": "Dooley LLC",
+        "catchPhrase": "Upgradable uniform approach",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 795
+            },
+            {
+                "minute": 1,
+                "price": 720.01
+            },
+            {
+                "minute": 2,
+                "price": 733.5
+            },
+            {
+                "minute": 3,
+                "price": 686.49
+            },
+            {
+                "minute": 4,
+                "price": 712.03
+            },
+            {
+                "minute": 5,
+                "price": 647.03
+            },
+            {
+                "minute": 6,
+                "price": 674.87
+            },
+            {
+                "minute": 7,
+                "price": 617.01
+            },
+            {
+                "minute": 8,
+                "price": 669.35
+            },
+            {
+                "minute": 9,
+                "price": 712.35
+            }
+        ]
+    },
+    {
+        "symbol": "XDP",
+        "companyName": "Casper, Gottlieb and Jerde",
+        "catchPhrase": "Robust stable open system",
+        "priceData": [
+            {
+                "minute": 0,
+                "price": 210
+            },
+            {
+                "minute": 1,
+                "price": 211.8
+            },
+            {
+                "minute": 2,
+                "price": 215.64
+            },
+            {
+                "minute": 3,
+                "price": 218.84
+            },
+            {
+                "minute": 4,
+                "price": 197.21
+            },
+            {
+                "minute": 5,
+                "price": 176.65
+            },
+            {
+                "minute": 6,
+                "price": 184.12
+            },
+            {
+                "minute": 7,
+                "price": 177.19
+            },
+            {
+                "minute": 8,
+                "price": 196.28
+            },
+            {
+                "minute": 9,
+                "price": 184.26
+            }
+        ]
+    }
+]
